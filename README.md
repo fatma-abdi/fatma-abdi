@@ -1,13 +1,12 @@
 # Hi 👋, I'm Fatima Abdi
 
-<h3 align="center">Frontend Developer | Aspiring Data Analyst 🇸🇴</h3>
+<h3 align="center">Software Developer | Aspiring Data Analyst 🇸🇴</h3>
 
 <p align="center">
-  I'm a Computer Science graduate from Somalia, passionate about building web applications and working with data.
+  I'm a Computer Science graduate from Hormuud University, passionate about software development, building web applications, and working with data.
   <br />
-  Currently improving my skills in React, JavaScript, Python, and Data Analysis.
+  I'm continuously improving my skills in React, JavaScript, Python, and Data Analysis.
 </p>
-
 ---
 
 ### 👩‍💻 About Me
